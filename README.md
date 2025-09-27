@@ -12,6 +12,8 @@ You can view the detailed documentation here:
 <img src="https://github.com/user-attachments/assets/98be1f4a-86e6-4240-b2ae-7d67d4bd2eb2" alt="OLA DA github_page-0001" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/acfe8ffd-ccbb-435a-9299-9ab54af42c81" alt="OLA DA github_page-0001" width="400" height="300">
 
+### You can also view this Power BI dashboard on Power BI using above 
+
 
 
 
